@@ -1,5 +1,5 @@
 <h1 align="center">✨  WELCOME<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h2 align="center">Top Shopify Designer & Developer, Blockchain Developer</h2>
+<h2 align="center">Senior Full Stack Developer</h2>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <ul>📚 Blockchain Security & Smart Contract Audit</ul>
