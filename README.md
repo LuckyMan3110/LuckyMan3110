@@ -13,8 +13,8 @@
    Development, testing and deployment tailored smart contracts with individual business logic.
 
 
-
 - 📫 How to reach me **seinom8@gmail.com**
+
 
 ### **_Skills_**
 [![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
@@ -32,14 +32,12 @@
 [![IPFS](https://img.shields.io/badge/-IPFS-23bbad?style=for-the-badge&logo=ipfs&logoColor=white)]()
 [![Embark](https://img.shields.io/badge/-Embark-blue?style=for-the-badge&logo=skyliner&logoColor=white)]()
 [![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=for-the-badge&logo=javascript&logoColor=)]()
-[![eWasm](https://img.shields.io/badge/-ewasm-654ff0?style=for-the-badge&logo=webassembly&logoColor=white)]()
 [![CCNA](https://img.shields.io/badge/-CCNA-1ba0d7?style=for-the-badge&logo=cisco&logoColor=white)]()
 [![Baseline](https://img.shields.io/badge/-Baseline-orange?style=for-the-badge&logo=buffer&logoColor=white)]()
-[![Hyperledger](https://img.shields.io/badge/-Hyperledger-7d00ff?style=for-the-badge&logo=linux-foundation&logoColor=white)]()
 [![SQL](https://img.shields.io/badge/-SQL-d2082d?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![Redux](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&logo=redux&logoColor=white)]()
 [![Github](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)]()
-[![Vscode](https://img.shields.io/badge/-VSCode-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
+
 
 ### **_DeFi Experiences_**
 - NFT Mint Dapps
