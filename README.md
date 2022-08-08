@@ -12,7 +12,7 @@
 <ul>🌐 Smart Contracts and DApps</ul> 
    Development, testing and deployment tailored smart contracts with individual business logic.
 
-
+<br/><br/>
 - 📫 How to reach me **seinom8@gmail.com**
 
 
@@ -126,12 +126,7 @@
             <a href="https://lunachownft.com/">
                 <img src="https://github.com/kroim/profile/blob/master/projects/LunachowNFT.png?raw=true" width="200">
             </a>
-        </td> 
-        <td>
-            <a href="https://gekosave.io/marketplace">
-                <img src="https://github.com/kroim/profile/blob/master/projects/GekoSave1.png?raw=true" width="200">
-            </a>
-        </td>     
+        </td>    
     </tr>
 </table>
 
