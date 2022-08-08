@@ -12,11 +12,7 @@
 <ul>🌐 Smart Contracts and DApps</ul> 
    Development, testing and deployment tailored smart contracts with individual business logic.
 
-- 🔭 I’m currently working on [Like Soft](https://www.likesoft.io/)
-
-- 🌱 I’m currently implementing ✨Blockchain Security & Smart Contract Audit, DEX, DApps etc.✨
-
-- 📫 How to reach me **iwanegor0401@gmail.com**
+- 📫 How to reach me **seinom8@gmail.com**
 
 ### **_Skills_**
 [![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
