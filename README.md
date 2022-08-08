@@ -108,7 +108,6 @@
             <td>PixelPimp</td>
             <td>Latitude</td>
             <td>LunaChow</td>
-            <td>GekoSaveAuction</td>
         </tr>
     </thead>
     <tr>
