@@ -12,6 +12,8 @@
 <ul>🌐 Smart Contracts and DApps</ul> 
    Development, testing and deployment tailored smart contracts with individual business logic.
 
+
+
 - 📫 How to reach me **seinom8@gmail.com**
 
 ### **_Skills_**
