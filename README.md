@@ -2,17 +2,17 @@
 <h2 align="center">Senior Full Stack Developer</h2>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<ul>📚 Blockchain Security & Smart Contract Audit</ul>
-   Identifying technical and economical vulnerabilities, and preventing exploits in decentralized projects.
-   Comprehensive review of code vulnerabilities and logical errors.
+<ul>📚 Front End & Back End Development</ul>
+   Developing pixel-perfect and responsive UI by using React,Vue,Angular and HTML/CSS
+   Working neatly before deadlines by using PHP frameworks, Python, Mysql and MongoDB.
 <br/><br/>
-<ul>📫 Decentralized Solutions Development</ul>
-   Implemeting blockchain technology into different spheres and industries.
+<ul>📫 Shopify Development</ul>
+   High-quality development of sites at the professional level based on Liquid template.
 <br/><br/>
-<ul>🌐 Smart Contracts and DApps</ul> 
-   Development, testing and deployment tailored smart contracts with individual business logic.
+<ul>🌐 Blockchain Development</ul> 
+   Developing smart contract based on solidity
 
-<br/>
+<br/><br/>
 - 📫 How to reach me **seinom8@gmail.com**
 
 
@@ -25,15 +25,9 @@
 [![Graphql](https://img.shields.io/badge/-Graph_QL-ff1493?style=for-the-badge&logo=graphql&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)]()
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)]()
 [![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![Solidity](https://img.shields.io/badge/-Solidity-3c3c3d?style=for-the-badge&logo=ethereum&logoColor=white)]()
-[![IPFS](https://img.shields.io/badge/-IPFS-23bbad?style=for-the-badge&logo=ipfs&logoColor=white)]()
-[![Embark](https://img.shields.io/badge/-Embark-blue?style=for-the-badge&logo=skyliner&logoColor=white)]()
 [![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=for-the-badge&logo=javascript&logoColor=)]()
-[![CCNA](https://img.shields.io/badge/-CCNA-1ba0d7?style=for-the-badge&logo=cisco&logoColor=white)]()
-[![Baseline](https://img.shields.io/badge/-Baseline-orange?style=for-the-badge&logo=buffer&logoColor=white)]()
 [![SQL](https://img.shields.io/badge/-SQL-d2082d?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![Redux](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&logo=redux&logoColor=white)]()
 [![Github](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)]()
@@ -131,21 +125,3 @@
 
 
 
-### **_Contact Details_**<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
-<p align='center'>
-<!-- 
-   <a href="https://t.me/kroim1202">
-      <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-   </a>&nbsp;&nbsp;
-   <a href="https://discord.gg/gGaQtGvk4m">
-      <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-   </a>&nbsp;&nbsp;
--->
-
-<a href="https://join.skype.com/invite/eumi2mzscGm8">
-  <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="mailto:kjipgnysjh2@gmail.com">
-  <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-</p>
