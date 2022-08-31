@@ -12,9 +12,6 @@
 <ul>🌐 Blockchain Development</ul> 
    Developing smart contract based on solidity
 
-<br/><br/>
-- 📫 How to reach me **seinom8@gmail.com**
-
 
 ### **_Skills_**
 [![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
